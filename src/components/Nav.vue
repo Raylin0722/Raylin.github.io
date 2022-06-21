@@ -52,8 +52,8 @@ const links = [
                 v-if="$route.path !== '/about'"
             >
                 <img
-                    src=""
-                    class="w-full translate-y-12 scale-[180%] transition-all duration-200 hover:rounded-xl hover:pt-5 md:translate-y-14 md:hover:pt-7"
+                    src="https://i.imgur.com/7Je16BU.jpg"
+                    class="w-full translate-y-12 scale-[100%] transition-all duration-200 hover:rounded-xl hover:pt-5 md:translate-y-0 md:hover:pt-7"
                 />
             </div>
         </transition>
